@@ -1,0 +1,5 @@
+- 👋 Hi, I’m @HungryVovka
+- 👀 I’m interested in Python (Django, Tensorflow, Keras), HTML5, CSS3
+- 🌱 I’m currently learning JavaScript
+- 💞️ I’m looking to collaborate on anything interesting.
+- 📫 How to reach me https://twitter.com/HungryVovka
