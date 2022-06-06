@@ -28,4 +28,4 @@ It's a cool website where you face challenges and you get leveled by how good yo
 ## 🛠 Technical Stack
 *   Python, JavaScript languages
 *   HTML5, CSS3
-*   Django, Keras, TensorFlow
+*   Django, Matplotlib, Keras, TensorFlow
