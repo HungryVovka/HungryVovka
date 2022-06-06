@@ -18,10 +18,12 @@ It's a cool website where you face challenges and you get leveled by how good yo
    <a href="https://t.me/HungryVovka">
        <img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white"/>
    </a>
+   <a href="https://github.com/HungryVovka">
+       <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white"/>
+   </a>
 <p align='center'>
    📫 How to reach me: <a href='vladimirrukavishnikovmail@gmail.com'>vladimirrukavishnikovmail@gmail.com</a>
 </p>
-
 
 ## 🛠 Technical Stack
 *   Python, JavaScript languages
