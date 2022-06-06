@@ -25,7 +25,12 @@ It's a cool website where you face challenges and you get leveled by how good yo
    📫 How to reach me: <a href='vladimirrukavishnikovmail@gmail.com'>vladimirrukavishnikovmail@gmail.com</a>
 </p>
 
+## 💬 Languages
+*   English - B2
+*   Russian - native language
+
 ## 🛠 Technical Stack
 *   Python, JavaScript languages
 *   HTML5, CSS3
 *   Django, Matplotlib, Keras, TensorFlow
+
