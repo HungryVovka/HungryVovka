@@ -1,3 +1,7 @@
+<p align='center'>
+<img src="Rukavishnikov.jpg" width="300" height="400">
+</p>
+
 # Nice to meet you, I'm Vladimir Rukavishnikov 👋
 Programmer and economist. I have two higher educations, a bachelor's degree in economics and a master's degree in finance. Programming in Python, but also learning other programming languages. I know Django, TensorFlow and Keras frameworks.
 
@@ -34,3 +38,20 @@ It's a cool website where you face challenges and you get leveled by how good yo
 *   HTML5, CSS3
 *   Django, Matplotlib, Keras, TensorFlow
 
+## 🖥️ Code example
+```javascript
+function animals(heads, legs){
+  var farm = [];
+  farm.push(2*heads - legs/2);
+  farm.push(legs/2 - heads);
+  if (legs % 2 == 0 && farm[0] >= 0 && farm[1] >= 0){
+    return farm;
+  } else {
+    return 'No solutions';
+  }
+}
+```
+## 👨‍🎓 Education
+* Izhevsk State Technical University (ISTU)
+  + Bachelor, Economics
+  + Magister, Finance and credit
