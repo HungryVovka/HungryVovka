@@ -3,7 +3,7 @@
 </p>
 
 # Nice to meet you, I'm Vladimir Rukavishnikov 👋
-Programmer and economist. I have two higher educations, a bachelor's degree in economics and a master's degree in finance. Programming in Python, but also learning other programming languages. I know Django, TensorFlow and Keras frameworks.
+Programmer and economist. I am interested in everything that I can take on and constantly improve my professional skills in languages and their frameworks. Despite the lack of an official profile education in programming, I am engaged in self-study.
 
 # Codewars
 Codewars is an educational community for computer programming. On the platform, software developers are trained to program tasks known as kata.
