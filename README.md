@@ -52,6 +52,6 @@ function animals(heads, legs){
 }
 ```
 ## 👨‍🎓 Education
-* Izhevsk State Technical University (ISTU)
+* Kalashnikov Izhevsk State Technical University (ISTU)
   + Bachelor, Economics
   + Magister, Finance and credit
