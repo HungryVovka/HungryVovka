@@ -34,7 +34,7 @@ It's a cool website where you face challenges and you get leveled by how good yo
 *   Russian - native language
 
 ## 🛠 Technical Stack
-*   Python, JavaScript languages
+*   Python, JavaScript, Visual Basic languages
 *   HTML, CSS
 *   Django, Matplotlib, Pandas, NumPy, Keras, TensorFlow
 
