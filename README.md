@@ -2,7 +2,7 @@
 <img src="Rukavishnikov.jpg" width="300" height="400">
 </p>
 <p align='center'>
-<img src="https://komarev.com/ghpvc/?username=HungryVovka&style=flat-square&color=blue" alt=""/>
+<img src="https://komarev.com/ghpvc/?username=HungryVovka&style=flat-square&color=yellow" alt=""/>
 </p>
 
 # Nice to meet you, I'm Vladimir Rukavishnikov 👋
