@@ -1,6 +1,9 @@
 <p align='center'>
 <img src="Rukavishnikov.jpg" width="300" height="400">
 </p>
+<p align='center'>
+<img src="https://komarev.com/ghpvc/?username=HungryVovka&style=flat-square&color=blue" alt=""/>
+</p>
 
 # Nice to meet you, I'm Vladimir Rukavishnikov 👋
 Programmer and economist. I am interested in everything that I can take on and constantly improve my professional skills in languages and their frameworks. Despite the lack of an official profile education in programming, I am engaged in self-study.
