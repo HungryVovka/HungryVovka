@@ -58,3 +58,7 @@ function animals(heads, legs){
 * Kalashnikov Izhevsk State Technical University (ISTU)
   + Bachelor, Economics
   + Magister, Finance and credit
+
+## 📊 My statistics
+[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=HungryVovka&theme=dark&background=000000)](https://git.io/streak-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=HungryVovka&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
