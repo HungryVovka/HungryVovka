@@ -50,6 +50,8 @@ It's a cool website where you face challenges and you get leveled by how good yo
 * Kalashnikov Izhevsk State Technical University (ISTU)
   + Bachelor, Economics
   + Magister, Finance and credit
+* Perm National Research Polytechnic University (PNRPU)
+  + 1C: Accounting
 * The Rolling Scopes School (RS School)
   + JS/FE pre-school 2022Q2 (JavaScript)
 
