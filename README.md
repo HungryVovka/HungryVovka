@@ -42,19 +42,10 @@ It's a cool website where you face challenges and you get leveled by how good yo
 *   Django, Matplotlib, Pandas, NumPy, Keras, TensorFlow, Jupyter Notebook
 *   I repair and modify old and new PCs and laptops.
 
-## 🖥️ Code example
-```javascript
-function animals(heads, legs){
-  var farm = [];
-  farm.push(2*heads - legs/2);
-  farm.push(legs/2 - heads);
-  if (legs % 2 == 0 && farm[0] >= 0 && farm[1] >= 0){
-    return farm;
-  } else {
-    return 'No solutions';
-  }
-}
-```
+## 🖥️ Project
+* Improving the methodology for assessing the effectiveness of planning regional expenditures (on the example of the budgets of the subjects of the Volga Federal District)
+  + The methodology for evaluating the efficiency of spending planning in the constituent entities of the Russian Federation has been improved
+
 ## 👨‍🎓 Education
 * Kalashnikov Izhevsk State Technical University (ISTU)
   + Bachelor, Economics
