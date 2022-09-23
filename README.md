@@ -59,7 +59,8 @@ function animals(heads, legs){
 * Kalashnikov Izhevsk State Technical University (ISTU)
   + Bachelor, Economics
   + Magister, Finance and credit
-* THE ROLLING SCOPES SCHOOL, JS/FE PRE-SCHOOL 2022Q2 (JAVASCRIPT)
+* The Rolling Scopes School
+  + JS/FE pre-school 2022Q2 (JavaScript)
 
 ## 📊 My statistics
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=HungryVovka&theme=dark&background=000000)](https://git.io/streak-stats)
