@@ -59,7 +59,7 @@ function animals(heads, legs){
 * Kalashnikov Izhevsk State Technical University (ISTU)
   + Bachelor, Economics
   + Magister, Finance and credit
-* The Rolling Scopes School
+* The Rolling Scopes School (RS School)
   + JS/FE pre-school 2022Q2 (JavaScript)
 
 ## 📊 My statistics
