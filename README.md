@@ -8,13 +8,13 @@
 # Nice to meet you, I'm Vladimir Rukavishnikov 👋
 Programmer and economist. I am interested in everything that I can take on and constantly improve my professional skills in languages and their frameworks. Despite the lack of an official profile education in programming, I am engaged in self-study.
 
-# Codewars
+# 🤔 Codewars
 Codewars is an educational community for computer programming. On the platform, software developers are trained to program tasks known as kata.
 It's a cool website where you face challenges and you get leveled by how good you do. It has all possible languages for training.
 
 [![Profile badge](https://www.codewars.com/users/HungryVovka/badges/large)](https://www.codewars.com/users/HungryVovka)
 
-# Contacts
+# 📧 Contacts
 <p align='center'>
    <a href="https://www.linkedin.com/in/hungryvovka/">
        <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white"/>
