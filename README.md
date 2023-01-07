@@ -35,6 +35,7 @@ It's a cool website where you face challenges and you get leveled by how good yo
 ## 💬 Languages
 *   English - B2
 *   Russian - native language
+*   A little Spanish
 
 ## 🛠 Technical Stack
 *   Python, JavaScript, Visual Basic languages
