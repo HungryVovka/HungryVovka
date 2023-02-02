@@ -58,5 +58,31 @@ It's a cool website where you face challenges and you get leveled by how good yo
   + JS/FE pre-school 2022Q2 (JavaScript)
 
 ## 📊 My statistics
-[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=HungryVovka&theme=dark&background=000000)](https://git.io/streak-stats)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=HungryVovka&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
+<p>
+<a href="https://gitstats.me/HungryVovka" target="_blank">
+  <img height="180em" alt="HungryVovka's github stats" src="https://github-readme-stats-eight-theta.vercel.app/api?username=HungryVovka&show_icons=true&theme=vision-friendly-dark&include_all_commits=true&count_private=true"/>
+  <img height="180em" alt="HungryVovka's github stats" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=HungryVovka&layout=compact&langs_count=8&theme=vision-friendly-dark"/>
+</a>
+</p>
+
+<details>
+<summary>🔥 Streak stats</summary>
+<p>
+  <img height="180em" alt="HungryVovka's github stats" src="http://github-readme-streak-stats.herokuapp.com?user=HungryVovka&theme=dark&background=000000">
+  <img height="180em" alt="HungryVovka's github stats" src="https://github-readme-stats.vercel.app/api/top-langs/?username=HungryVovka&layout=compact&theme=vision-friendly-dark">
+</p>
+</details>
+
+<details>
+<summary>📈 Language&nbsp;/&nbsp;Framework stats</summary>
+<a href='https://profile.codersrank.io/user/HungryVovka/'>
+    <img src='http://cr-skills-chart-widget.azurewebsites.net/api/api?username=HungryVovka&padding=30'>
+</a>
+</details>
+
+<details>
+<summary>📊 Recent GitHub Activity</summary>
+<p>
+  <img alt="HungryVovka's github stats" src="https://github-readme-activity-graph.cyclic.app/graph?username=HungryVovka&theme=dracula">
+</p>
+</details>
