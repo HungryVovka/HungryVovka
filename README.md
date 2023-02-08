@@ -39,6 +39,7 @@ It's a cool website where you face challenges and you get leveled by how good yo
 
 ## 🛠 Technical Stack
 *   Python, JavaScript, Visual Basic languages
+*   F# language
 *   HTML, CSS
 *   SQL
 *   Django, Matplotlib, Pandas, NumPy, Keras, TensorFlow, Jupyter Notebook
