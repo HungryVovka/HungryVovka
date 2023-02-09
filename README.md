@@ -43,6 +43,7 @@ It's a cool website where you face challenges and you get leveled by how good yo
 *   HTML, CSS
 *   SQL
 *   Django, Matplotlib, Pandas, NumPy, Keras, TensorFlow, Jupyter Notebook
+*   Node, React
 *   I repair and modify old and new PCs and laptops.
 
 ## 🖥️ Project
