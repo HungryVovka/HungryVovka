@@ -46,18 +46,33 @@ It's a cool website where you face challenges and you get leveled by how good yo
 *   Node.js, React
 *   I repair and modify old and new PCs and laptops.
 
+## 💵 Experience
+* Freelance web designer and programmer (Nov 2021 - Present)
+   + Fulfillment of freelance orders
+   + HTML coder
+   + Сreation of scripts and additional functions for applications
+* Freelance sysadmin (Apr 2017 - Present)
+   + Procurement of spare parts suitable for a specific computer
+   + Installation of operating systems (Windows, Linux)
+   + Fixing all sorts of software or hardware failures
+* Accountant, "Alpha" LLC (Jul 2019 - Sep 2021)
+   + Preparation of accounting and financial statements
+   + Work with primary documents
+   + Renewal of licenses
+   + Resolution of disputes with insurance and tax services
+
 ## 🖥️ Project
 * Improving the methodology for assessing the effectiveness of planning regional expenditures (on the example of the budgets of the subjects of the Volga Federal District)
   + The methodology for evaluating the efficiency of spending planning in the constituent entities of the Russian Federation has been improved
 
 ## 👨‍🎓 Education
 * Kalashnikov Izhevsk State Technical University (ISTU)
-  + Bachelor, Economics
-  + Magister, Finance and credit
+  + Bachelor, Economics (2016)
+  + Magister, Finance and credit (2019)
 * Perm National Research Polytechnic University (PNRPU)
-  + 1C: Accounting
+  + 1C: Accounting (2017)
 * The Rolling Scopes School (RS School)
-  + JS/FE pre-school 2022Q2 (JavaScript)
+  + JS/FE pre-school 2022Q2 (JavaScript)(2022)
 
 ## 📊 My statistics
 <p>
