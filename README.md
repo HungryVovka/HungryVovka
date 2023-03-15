@@ -61,9 +61,11 @@ It's a cool website where you face challenges and you get leveled by how good yo
    + Renewal of licenses
    + Resolution of disputes with insurance and tax services
 
-## 🖥️ Project
+## 🖥️ Projects
 * Improving the methodology for assessing the effectiveness of planning regional expenditures (on the example of the budgets of the subjects of the Volga Federal District)
   + The methodology for evaluating the efficiency of spending planning in the constituent entities of the Russian Federation has been improved
+* Audit of income and expenses of the regional branch of the bank in the city
+  + The new measure reduces operating expenses, reduces other expenses if the overall pace of sales is maintained
 
 ## 👨‍🎓 Education
 * Kalashnikov Izhevsk State Technical University (ISTU)
