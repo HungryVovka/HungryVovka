@@ -48,12 +48,13 @@ It's a cool website where you face challenges and you get leveled by how good yo
 
 ## 💵 Experience
 * Freelance web designer and programmer (Nov 2021 - Present)
-   + Fulfillment of freelance orders
-   + HTML coder
-   + Сreation of scripts and additional functions for applications
+   + Performing code preparation and debugging work with subsequent adjustments based on input data
+   + Creating a simple HTML-layout using CSS and JavaScript
+   + Assisting in compiling code refactoring using decomposition and checking for consistency with logic and template
 * Freelance sysadmin (Apr 2017 - Present)
    + Procurement of spare parts suitable for a specific computer
    + Installation of operating systems (Windows, Linux)
+   + Solving hardware compatibility issues at the software level
    + Fixing all sorts of software or hardware failures
 * Accountant, "Alpha" LLC (Jul 2019 - Sep 2021)
    + Preparation of accounting and financial statements
