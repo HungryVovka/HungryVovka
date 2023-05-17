@@ -73,7 +73,11 @@ I am constantly seeking new challenges and opportunities to grow as a programmer
 Codewars is an educational community for computer programming. On the platform, software developers are trained to program tasks known as kata.
 It's a cool website where you face challenges and you get leveled by how good you do. It has all possible languages for training.
 
-[![Profile badge](https://www.codewars.com/users/HungryVovka/badges/large)](https://www.codewars.com/users/HungryVovka)
+<p align="center">
+  <a href="https://www.codewars.com/users/HungryVovka">
+     <img src="https://www.codewars.com/users/HungryVovka/badges/large">
+  </a>
+</p>
 
 <details>
 <summary>📊 My statistics</summary>
