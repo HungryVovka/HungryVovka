@@ -42,7 +42,7 @@ I am constantly seeking new challenges and opportunities to grow as a programmer
 ## 👨‍🎓 Education
 * Kalashnikov Izhevsk State Technical University (ISTU)
   + Bachelor, Economics (2016)
-  + Magister, Finance and credit (2019)
+  + Master, Finance and credit (2019)
 * Perm National Research Polytechnic University (PNRPU)
   + 1C: Accounting (2017)
 * The Rolling Scopes School (RS School)
