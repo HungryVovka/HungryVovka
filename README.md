@@ -6,13 +6,11 @@
 </p>
 
 # Nice to meet you, I'm Vladimir Rukavishnikov 👋
-Programmer and economist. I am interested in everything that I can take on and constantly improve my professional skills in languages and their frameworks. Despite the lack of an official profile education in programming, I am engaged in self-study.
+Hello and welcome to my GitHub profile! I am thrilled to introduce myself as a self-taught programmer based in Russia, born in the beautiful city of Chaikovsky. I hold two degrees - a Bachelor's in Economics and a Master's in Finance and Credit from Izhevsk State Technical University named after M.T. Kalashnikov.
 
-# 🤔 Codewars
-Codewars is an educational community for computer programming. On the platform, software developers are trained to program tasks known as kata.
-It's a cool website where you face challenges and you get leveled by how good you do. It has all possible languages for training.
+My passion for programming has led me to learn various languages such as F#, JavaScript, Python and Visual Basic. Additionally, I have expertise in SQL, HTML, and CSS.
 
-[![Profile badge](https://www.codewars.com/users/HungryVovka/badges/large)](https://www.codewars.com/users/HungryVovka)
+I am constantly seeking new challenges and opportunities to grow as a programmer. If you are looking for someone who is dedicated, hardworking, and always eager to learn, then look no further! Thank you for taking the time to visit my profile.
 
 # 📧 Contacts
 <p align='center'>
@@ -32,11 +30,6 @@ It's a cool website where you face challenges and you get leveled by how good yo
    📫 How to reach me: <a href='vladimirrukavishnikovmail@gmail.com'>vladimirrukavishnikovmail@gmail.com</a>
 </p>
 
-## 💬 Languages
-*   English - B2
-*   Spanish - A1
-*   Russian - native language
-
 ## 🛠 Technical Stack
 *   Python, JavaScript, Visual Basic languages
 *   F# language
@@ -45,6 +38,20 @@ It's a cool website where you face challenges and you get leveled by how good yo
 *   Django, Matplotlib, Pandas, NumPy, Keras, TensorFlow, Jupyter Notebook
 *   Node.js, React
 *   I repair and modify old and new PCs and laptops.
+
+## 👨‍🎓 Education
+* Kalashnikov Izhevsk State Technical University (ISTU)
+  + Bachelor, Economics (2016)
+  + Magister, Finance and credit (2019)
+* Perm National Research Polytechnic University (PNRPU)
+  + 1C: Accounting (2017)
+* The Rolling Scopes School (RS School)
+  + JS/FE pre-school 2022Q2 (JavaScript)(2022)
+
+## 💬 Languages
+*   English - B2
+*   Spanish - A1
+*   Russian - native language
 
 ## 💵 Experience
 * Freelance web designer and programmer (Nov 2021 - Present)
@@ -62,28 +69,21 @@ It's a cool website where you face challenges and you get leveled by how good yo
    + Renewal of licenses
    + Resolution of disputes with insurance and tax services
 
-## 🖥️ Projects
-* Improving the methodology for assessing the effectiveness of planning regional expenditures (on the example of the budgets of the subjects of the Volga Federal District)
-  + The methodology for evaluating the efficiency of spending planning in the constituent entities of the Russian Federation has been improved
-* Audit of income and expenses of the regional branch of the bank in the city
-  + The new measure reduces operating expenses, reduces other expenses if the overall pace of sales is maintained
+# 🤔 Codewars
+Codewars is an educational community for computer programming. On the platform, software developers are trained to program tasks known as kata.
+It's a cool website where you face challenges and you get leveled by how good you do. It has all possible languages for training.
 
-## 👨‍🎓 Education
-* Kalashnikov Izhevsk State Technical University (ISTU)
-  + Bachelor, Economics (2016)
-  + Magister, Finance and credit (2019)
-* Perm National Research Polytechnic University (PNRPU)
-  + 1C: Accounting (2017)
-* The Rolling Scopes School (RS School)
-  + JS/FE pre-school 2022Q2 (JavaScript)(2022)
+[![Profile badge](https://www.codewars.com/users/HungryVovka/badges/large)](https://www.codewars.com/users/HungryVovka)
 
-## 📊 My statistics
+<details>
+<summary>📊 My statistics</summary>
 <p>
 <a href="https://gitstats.me/HungryVovka" target="_blank">
   <img height="180em" alt="HungryVovka's github stats" src="https://github-readme-stats-eight-theta.vercel.app/api?username=HungryVovka&show_icons=true&theme=vision-friendly-dark&include_all_commits=true&count_private=true"/>
   <img height="180em" alt="HungryVovka's github stats" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=HungryVovka&layout=compact&langs_count=8&theme=vision-friendly-dark"/>
 </a>
 </p>
+</details>
 
 <details>
 <summary>🔥 Streak stats</summary>
