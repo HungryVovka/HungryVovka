@@ -103,10 +103,3 @@ It's a cool website where you face challenges and you get leveled by how good yo
     <img src='http://cr-skills-chart-widget.azurewebsites.net/api/api?username=HungryVovka&padding=30'>
 </a>
 </details>
-
-<details>
-<summary>📊 Recent GitHub Activity</summary>
-<p>
-  <img alt="HungryVovka's github stats" src="https://github-readme-activity-graph.cyclic.app/graph?username=HungryVovka&theme=dracula">
-</p>
-</details>
