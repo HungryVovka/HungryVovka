@@ -52,6 +52,7 @@ I am constantly seeking new challenges and opportunities to grow as a programmer
 *   English - B2
 *   Spanish - A1
 *   Russian - native language
+*   https://www.duolingo.com/profile/HungryVovka?via=share_profile
 
 ## 💵 Experience
 * Freelance web designer and programmer (Nov 2021 - Present)
