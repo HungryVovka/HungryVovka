@@ -6,7 +6,7 @@
 </p>
 
 # Nice to meet you, I'm Vladimir Rukavishnikov 👋
-Hello and welcome to my GitHub profile! I am thrilled to introduce myself as a self-taught programmer based in Russia, born in the beautiful city of Chaikovsky. I hold two degrees - a Bachelor's in Economics and a Master's in Finance and Credit from Izhevsk State Technical University named after M.T. Kalashnikov.
+Hello, zdravstvuyte and welcome to my GitHub profile! I am thrilled to introduce myself as a self-taught programmer based in Russia, born in the beautiful city of Chaikovsky. I hold two degrees - a Bachelor's in Economics and a Master's in Finance and Credit from Izhevsk State Technical University named after M.T. Kalashnikov.
 
 My passion for programming has led me to learn various languages such as F#, JavaScript, Python and Visual Basic. Additionally, I have expertise in SQL, HTML, and CSS.
 
