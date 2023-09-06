@@ -40,6 +40,7 @@ I am constantly seeking new challenges and opportunities to grow as a programmer
 *   Node.js, React
 *   .NET
 *   MySQL, MS Access, PostgreSQL
+*   Windows, Linux 
 *   I repair and modify old and new PCs and laptops.
 
 ## 👨‍🎓 Education
