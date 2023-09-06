@@ -31,12 +31,14 @@ I am constantly seeking new challenges and opportunities to grow as a programmer
 </p>
 
 ## 🛠 Technical Stack
-*   Python, JavaScript, Visual Basic languages
-*   F# language
+*   Python, JavaScript and PHP languages
+*   C# and Visual Basic language
+*   F# and Elixir languages
 *   HTML, CSS
 *   SQL
 *   Django, Matplotlib, Pandas, NumPy, Keras, TensorFlow, Jupyter Notebook
 *   Node.js, React
+*   .NET
 *   I repair and modify old and new PCs and laptops.
 
 ## 👨‍🎓 Education
