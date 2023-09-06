@@ -32,7 +32,7 @@ I am constantly seeking new challenges and opportunities to grow as a programmer
 
 ## 🛠 Technical Stack
 *   Python, JavaScript and PHP languages
-*   C# and Visual Basic language
+*   C# and Visual Basic languages
 *   F# and Elixir languages
 *   HTML, CSS
 *   SQL
