@@ -31,17 +31,31 @@ I am constantly seeking new challenges and opportunities to grow as a programmer
 </p>
 
 ## 🛠 Technical Stack
-*   Python, JavaScript and PHP languages
-*   C# and Visual Basic languages
-*   F# and Elixir languages
-*   HTML, CSS
-*   SQL
-*   Django, Matplotlib, Pandas, NumPy, Keras, TensorFlow, Jupyter Notebook
-*   Node.js, React
-*   .NET
-*   MySQL, MS Access, PostgreSQL
-*   Windows, Linux 
-*   I repair and modify old and new PCs and laptops.
+* Programming languages
+   + C#
+   + JavaScript
+   + PHP
+   + Python
+   + Visual Basic
+* Functional programming languages
+   + Elixir
+   + F#
+* Layout
+   + CSS
+   + Figma
+   + HTML
+* SQL
+   + MySQL
+   + MS Access
+   + PostgreSQL
+* Frameworks, development platforms and other
+   + Django, Matplotlib, Pandas, NumPy, Keras, TensorFlow, Jupyter Notebook
+   + Node.js, React
+   + .NET
+* OS
+   + Linux
+   + Windows
+* I also repair and modify old and new PCs and laptops.
 
 ## 👨‍🎓 Education
 * Kalashnikov Izhevsk State Technical University (ISTU)
