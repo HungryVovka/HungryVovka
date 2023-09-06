@@ -39,6 +39,7 @@ I am constantly seeking new challenges and opportunities to grow as a programmer
 *   Django, Matplotlib, Pandas, NumPy, Keras, TensorFlow, Jupyter Notebook
 *   Node.js, React
 *   .NET
+*   MySQL, MS Access, PostgreSQL
 *   I repair and modify old and new PCs and laptops.
 
 ## 👨‍🎓 Education
