@@ -35,8 +35,10 @@ I am constantly seeking new challenges and opportunities to grow as a programmer
    + C#
    + JavaScript
    + PHP
+   + Pascal
    + Python
    + Visual Basic
+   + 1C programming language (1C:Enterprise script)
 * Functional programming languages
    + Elixir
    + F#
@@ -52,6 +54,7 @@ I am constantly seeking new challenges and opportunities to grow as a programmer
    + Django, Matplotlib, Pandas, NumPy, Keras, TensorFlow, Jupyter Notebook
    + Node.js, React
    + .NET
+   + 1C:Enterprise
 * OS
    + Linux
    + Windows
@@ -85,6 +88,7 @@ I am constantly seeking new challenges and opportunities to grow as a programmer
 * Accountant, "Alpha" LLC (Jul 2019 - Sep 2021)
    + Preparation of accounting and financial statements
    + Work with primary documents
+   + Constant interaction with the environment 1C:Enterprise platform
    + Renewal of licenses
    + Resolution of disputes with insurance and tax services
 
