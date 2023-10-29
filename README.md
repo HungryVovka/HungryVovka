@@ -38,7 +38,7 @@ I am constantly seeking new challenges and opportunities to grow as a programmer
    + Pascal
    + Python
    + Visual Basic
-   + 1C programming language (1C:Enterprise script)
+   + 1C:Enterprise script
 * Functional programming languages
    + Elixir
    + F#
