@@ -50,6 +50,7 @@ I am constantly seeking new challenges and opportunities to grow as a programmer
    + MySQL
    + MS Access
    + PostgreSQL
+   + 1C:Enterprise query language
 * Frameworks, development platforms and other
    + Django, Matplotlib, Pandas, NumPy, Keras, TensorFlow, Jupyter Notebook
    + Node.js, React
