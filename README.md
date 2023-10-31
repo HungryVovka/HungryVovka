@@ -8,7 +8,7 @@
 # Nice to meet you, I'm Vladimir Rukavishnikov 👋
 Hello, zdravstvuyte and welcome to my GitHub profile! I am thrilled to introduce myself as a self-taught programmer based in Russia, born in the beautiful city of Chaikovsky. I hold two degrees - a Bachelor's in Economics and a Master's in Finance and Credit from Izhevsk State Technical University named after M.T. Kalashnikov.
 
-My passion for programming has led me to learn various languages such as F#, JavaScript, Python and Visual Basic. Additionally, I have expertise in SQL, HTML, and CSS.
+My passion for programming has led me to learn various languages. Additionally, I have expertise in 1C system. Also I repair and modify old and new PCs and laptops.
 
 I am constantly seeking new challenges and opportunities to grow as a programmer. If you are looking for someone who is dedicated, hardworking, and always eager to learn, then look no further! Thank you for taking the time to visit my profile.
 
