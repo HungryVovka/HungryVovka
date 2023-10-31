@@ -54,6 +54,7 @@ I am constantly seeking new challenges and opportunities to grow as a programmer
 * Frameworks, development platforms and other
    + Django, Matplotlib, Pandas, NumPy, Keras, TensorFlow, Jupyter Notebook
    + Node.js, React
+   + Laravel
    + .NET
    + 1C:Enterprise
 * OS
