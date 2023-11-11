@@ -34,6 +34,7 @@ I am constantly seeking new challenges and opportunities to grow as a programmer
 * Programming languages
    + C#
    + JavaScript
+   + CoffeeScript
    + PHP
    + Pascal
    + Python
