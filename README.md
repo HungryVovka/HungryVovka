@@ -94,6 +94,12 @@ I am constantly seeking new challenges and opportunities to grow as a programmer
    + Constant interaction with the environment 1C:Enterprise platform
    + Renewal of licenses
    + Resolution of disputes with insurance and tax services
+* Contextual advertising specialist, "Innovative Construction Technologies" LLC (Dec 2022 - Present)
+   + Managing contextual advertising on various platforms
+   + Development and optimization of advertising campaigns
+   + Analysis of the effectiveness of advertising campaigns
+   + Monitoring the competitive environment and conducting market analysis
+   + Providing regular reports and analytics
 
 # 🤔 Codewars
 Codewars is an educational community for computer programming. On the platform, software developers are trained to program tasks known as kata.
