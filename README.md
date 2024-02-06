@@ -1,5 +1,5 @@
 <p align='center'>
-<img src="Rukavishnikov.jpg" width="300" height="400">
+<img src="https://github.com/HungryVovka/HungryVovka/blob/main/Rukavishnikov.jpg" width="300" height="400">
 </p>
 <p align='center'>
 <img src="https://komarev.com/ghpvc/?username=HungryVovka&style=flat-square&color=yellow" alt=""/>
@@ -110,6 +110,12 @@ It's a cool website where you face challenges and you get leveled by how good yo
      <img src="https://www.codewars.com/users/HungryVovka/badges/large">
   </a>
 </p>
+
+# 🤔 LeetCode
+LeetCode is an online platform for coding interview preparation. The service provides coding and algorithmic problems intended for users to practice coding.
+LeetCode has gained popularity among job seekers and coding enthusiasts as a resource for technical interviews and coding competitions.
+
+[![KnlnKS's LeetCode stats](https://leetcode-stats-six.vercel.app/?username=HungryVovka&theme=dark)](https://github.com/KnlnKS/leetcode-stats)
 
 <details>
 <summary>📊 My statistics</summary>
