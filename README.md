@@ -71,6 +71,8 @@ I am constantly seeking new challenges and opportunities to grow as a programmer
   + 1C: Accounting (2017)
 * The Rolling Scopes School (RS School)
   + JS/FE pre-school 2022Q2 (JavaScript)(2022)
+* University of Eastern Piedmont (UPO)
+  + Bachelor's degree, Informatics (2024 - Present)
 
 ## 💬 Languages
 *   English - B2
