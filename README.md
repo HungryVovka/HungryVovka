@@ -20,7 +20,7 @@ I am constantly seeking new challenges and opportunities to grow as a programmer
    <a href="https://twitter.com/HungryVovka">
        <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white"/>
    </a>
-   <a href="https://t.me/HungryVovka">
+   <a href="https://t.me/VladimirRukavishnikovIT">
        <img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white"/>
    </a>
    <a href="https://github.com/HungryVovka">
