@@ -75,8 +75,9 @@ I am constantly seeking new challenges and opportunities to grow as a programmer
   + Bachelor's degree, Informatics (2024 - Present)
 
 ## 💬 Languages
-*   English - B2
-*   Spanish - A2
+*   English - C1
+*   Italian - B1
+*   Spanish - A1
 *   Russian - native language
 *   <a href="https://www.duolingo.com/profile/HungryVovka?via=share_profile">My Duolingo profile</a>
 
