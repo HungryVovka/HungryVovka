@@ -114,12 +114,6 @@ It's a cool website where you face challenges and you get leveled by how good yo
   </a>
 </p>
 
-# 🤔 LeetCode
-LeetCode is an online platform for coding interview preparation. The service provides coding and algorithmic problems intended for users to practice coding.
-LeetCode has gained popularity among job seekers and coding enthusiasts as a resource for technical interviews and coding competitions.
-
-[![KnlnKS's LeetCode stats](https://leetcode-stats-six.vercel.app/?username=HungryVovka&theme=dark)](https://github.com/KnlnKS/leetcode-stats)
-
 <details>
 <summary>📊 My statistics</summary>
 <p>
