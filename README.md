@@ -35,6 +35,7 @@ I am constantly seeking new challenges and opportunities to grow as a programmer
 
 ## 🛠 Technical Stack
 * Programming languages
+   + C
    + C#
    + JavaScript
    + CoffeeScript
