@@ -43,6 +43,7 @@ I am constantly seeking new challenges and opportunities to grow as a programmer
    + Pascal
    + Python
    + Visual Basic
+   + Java
    + 1C:Enterprise script
 * Functional programming languages
    + Elixir
@@ -59,6 +60,7 @@ I am constantly seeking new challenges and opportunities to grow as a programmer
 * Frameworks, development platforms and other
    + Django, Matplotlib, Pandas, NumPy, Keras, TensorFlow, Jupyter Notebook
    + Node.js, React
+   + Swing
    + Laravel
    + .NET
    + 1C:Enterprise
