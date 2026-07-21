@@ -6,11 +6,19 @@
 </p>
 
 # Nice to meet you, I'm Vladimir Rukavishnikov 👋
-Hello, zdravstvuyte and welcome to my GitHub profile! I am thrilled to introduce myself as a self-taught programmer based in Russia, born in the beautiful city of Chaikovsky. I hold two degrees - a Bachelor's in Economics and a Master's in Finance and Credit from Izhevsk State Technical University named after M.T. Kalashnikov.
+Hello, zdravstvuyte, and welcome to my space! 👋
 
-My passion for programming has led me to learn various languages. Additionally, I have expertise in 1C system. Also I repair and modify old and new PCs and laptops.
+I’m Vladimir — a programmer with a heart for code, a mind for finance, and a soul that loves a good challenge. Born in the charming town of Chaikovsky, I spent years mastering the world of numbers (holding a Bachelor's in Economics and a Master's with honors in Finance & Credit). But then, code captured my heart.
 
-I am constantly seeking new challenges and opportunities to grow as a programmer. If you are looking for someone who is dedicated, hardworking, and always eager to learn, then look no further! Thank you for taking the time to visit my profile.
+Currently, I’m living an Italian dream while diving deep into computer science at the University of Eastern Piedmont (UPO) 💻. When I'm not writing clean code, solving complex logic puzzles, or exploring functional programming, you can usually find me doing what I love most:
+
+🔧 Bringing old technology back to life: I fix, upgrade, and care for PCs and laptops — because every piece of hardware deserves a second chance (and a little love!).
+
+🧠 Never stopping learning: From mastering foreign languages on Duolingo to solving algorithms on Codewars, I’m always growing.
+
+☕ Enjoying the little things: Good coffee, Italian views, and elegant code solutions.
+
+Whether you’re here to collaborate, check out my tech stack, or just say ciao, I’m always happy to connect! Thanks for dropping by ✨
 
 <p align='center'>
    <a href="https://ko-fi.com/hungryvovka" target="_blank">
