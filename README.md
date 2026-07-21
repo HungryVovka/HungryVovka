@@ -12,6 +12,12 @@ My passion for programming has led me to learn various languages. Additionally, 
 
 I am constantly seeking new challenges and opportunities to grow as a programmer. If you are looking for someone who is dedicated, hardworking, and always eager to learn, then look no further! Thank you for taking the time to visit my profile.
 
+<p align='center'>
+   <a href="https://ko-fi.com/hungryvovka" target="_blank">
+      <img src="https://img.shields.io/badge/Buy%20Me%20a%20Coffee-ffdd00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black"/>
+   </a>
+</p>
+
 # 📧 Contacts
 <p align='center'>
    <a href="https://www.linkedin.com/in/vladimirrukavishnikov/">
