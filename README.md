@@ -72,7 +72,7 @@ Whether you’re here to collaborate, check out my tech stack, or just say ciao,
    + PostgreSQL
    + 1C:Enterprise query language
 * Frameworks, development platforms and other
-   + Django, Matplotlib, Pandas, NumPy, Keras, TensorFlow, Jupyter Notebook
+   + Django, Flask, Matplotlib, Pandas, NumPy, Keras, TensorFlow, Jupyter Notebook
    + Node.js, React
    + Swing
    + Laravel
@@ -84,6 +84,8 @@ Whether you’re here to collaborate, check out my tech stack, or just say ciao,
 * I also repair and modify old and new PCs and laptops.
 
 ## 👨‍🎓 Education
+* University of Eastern Piedmont (UPO)
+  + Bachelor's degree, Informatics (2024 - Present)
 * Kalashnikov Izhevsk State Technical University (ISTU)
   + Bachelor's degree, Economics (2016)
   + Master's with honor degree, Finance and credit (2019)
@@ -91,8 +93,8 @@ Whether you’re here to collaborate, check out my tech stack, or just say ciao,
   + 1C: Accounting (2017)
 * The Rolling Scopes School (RS School)
   + JS/FE pre-school 2022Q2 (JavaScript)(2022)
-* University of Eastern Piedmont (UPO)
-  + Bachelor's degree, Informatics (2024 - Present)
+* Coddy.Tech
+  + AI Prompts Fundamentals (2026)
 
 ## 💬 Languages
 *   English - C1
