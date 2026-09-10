@@ -89,12 +89,20 @@ Whether you’re here to collaborate, check out my tech stack, or just say ciao,
 * Kalashnikov Izhevsk State Technical University (ISTU)
   + Bachelor's degree, Economics (2016)
   + Master's with honor degree, Finance and credit (2019)
+
+## 📜 Licenses & certifications 
 * Perm National Research Polytechnic University (PNRPU)
   + 1C: Accounting (2017)
 * The Rolling Scopes School (RS School)
   + JS/FE pre-school 2022Q2 (JavaScript)(2022)
 * Coddy.Tech
   + AI Prompts Fundamentals (2026)
+* Sant'Egidio
+  + Certificato di completamento della Lingua Italiana, livello A2 (2024)
+  + Certificato di completamento della Lingua Italiana, livello B1 (2025)
+  + Certificato di completamento della Lingua Italiana, livello B2 (2026)
+* Università per Stranieri di Perugia (UNISTRAPG)
+  + Certificato di conoscenza della lingua italiana di livello B1 (CELI 2) i cittadinanza (2025)
 
 ## 💬 Languages
 *   English - C1
