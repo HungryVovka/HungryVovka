@@ -97,7 +97,7 @@ Whether you’re here to collaborate, check out my tech stack, or just say ciao,
   + JS/FE pre-school 2022Q2 (JavaScript)(2022)
 * Coddy.Tech
   + AI Prompts Fundamentals (2026)
-* Sant'Egidio
+* Community of Sant'Egidio
   + Certificato di completamento della Lingua Italiana, livello A2 (2024)
   + Certificato di completamento della Lingua Italiana, livello B1 (2025)
   + Certificato di completamento della Lingua Italiana, livello B2 (2026)
