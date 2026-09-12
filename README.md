@@ -91,20 +91,20 @@ Whether you’re here to collaborate, check out my tech stack, or just say ciao,
   + Master's with honor degree, Finance and credit (2019)
 
 ## 📜 Licenses & certifications 
+* Università per Stranieri di Perugia (UNISTRAPG)
+  + Certificato di conoscenza della lingua italiana di livello B1 (CELI 2) i cittadinanza (2025)
 * Perm National Research Polytechnic University (PNRPU)
   + Attestato di aggiornamento professionale, 1C: Accounting (2017)
 * The Rolling Scopes School (RS School)
   + Certificate of completion in JS/FE pre-school 2022Q2 (JavaScript)(2022)
-* Coddy.Tech
-  + Certificate of Completion in AI Prompts Fundamentals (2026)
-  + Certificate of Completion in Excel Fundamentals (2026)
-  + Certificate of Completion in Selection Sort (Data Structures and Algorithms, DSA) (2026)
 * Community of Sant'Egidio
   + Attestato di completamento della Lingua Italiana, livello A2 (2024)
   + Attestato di completamento della Lingua Italiana, livello B1 (2025)
   + Attestato di completamento della Lingua Italiana, livello B2 (2026)
-* Università per Stranieri di Perugia (UNISTRAPG)
-  + Certificato di conoscenza della lingua italiana di livello B1 (CELI 2) i cittadinanza (2025)
+* Coddy.Tech
+  + Certificate of Completion in AI Prompts Fundamentals (2026)
+  + Certificate of Completion in Excel Fundamentals (2026)
+  + Certificate of Completion in Selection Sort (Data Structures and Algorithms, DSA) (2026)
 
 ## 💬 Languages
 *   English - C1
