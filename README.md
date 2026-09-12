@@ -104,6 +104,7 @@ Whether you’re here to collaborate, check out my tech stack, or just say ciao,
 * Coddy.Tech
   + Certificate of Completion in AI Prompts Fundamentals (2026)
   + Certificate of Completion in Excel Fundamentals (2026)
+  + Certificate of Completion in Practice Basic Concepts (2026)
   + Certificate of Completion in Selection Sort (Data Structures and Algorithms, DSA) (2026)
 
 ## 💬 Languages
