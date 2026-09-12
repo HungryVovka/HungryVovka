@@ -92,15 +92,17 @@ Whether you’re here to collaborate, check out my tech stack, or just say ciao,
 
 ## 📜 Licenses & certifications 
 * Perm National Research Polytechnic University (PNRPU)
-  + 1C: Accounting (2017)
+  + Attestato di aggiornamento professionale, 1C: Accounting (2017)
 * The Rolling Scopes School (RS School)
-  + JS/FE pre-school 2022Q2 (JavaScript)(2022)
+  + Certificate of completion in JS/FE pre-school 2022Q2 (JavaScript)(2022)
 * Coddy.Tech
-  + AI Prompts Fundamentals (2026)
+  + Certificate of Completion in AI Prompts Fundamentals (2026)
+  + Certificate of Completion in Excel Fundamentals (2026)
+  + Certificate of Completion in Selection Sort (Data Structures and Algorithms, DSA) (2026)
 * Community of Sant'Egidio
-  + Certificato di completamento della Lingua Italiana, livello A2 (2024)
-  + Certificato di completamento della Lingua Italiana, livello B1 (2025)
-  + Certificato di completamento della Lingua Italiana, livello B2 (2026)
+  + Attestato di completamento della Lingua Italiana, livello A2 (2024)
+  + Attestato di completamento della Lingua Italiana, livello B1 (2025)
+  + Attestato di completamento della Lingua Italiana, livello B2 (2026)
 * Università per Stranieri di Perugia (UNISTRAPG)
   + Certificato di conoscenza della lingua italiana di livello B1 (CELI 2) i cittadinanza (2025)
 
