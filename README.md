@@ -6,17 +6,16 @@
 </p>
 
 # Nice to meet you, I'm Vladimir Rukavishnikov 👋
-Hello, zdravstvuyte, and welcome to my space! 👋
+Software Engineer with a formal education in Computer Science (UPO, Italy) and a strong academic foundation in Economics & Finance (Master’s with Honors). I combine analytical rigor, business domain expertise, and sound engineering principles to build robust, scalable, and clean software solutions.
+Specialized in web application development, database management, and complex business logic. Thanks to my dual background in technology and finance, I easily bridge the gap between engineering teams and business stakeholders, ensuring tech solutions deliver real business value.
 
-I’m Vladimir — a programmer with a heart for code, a mind for finance, and a soul that loves a good challenge. Born in the charming town of Chaikovsky, I spent years mastering the world of numbers (holding a Bachelor's in Economics and a Master's with honors in Finance & Credit). But then, code captured my heart.
-
-Currently, I’m living an Italian dream while diving deep into computer science at the University of Eastern Piedmont (UPO) 💻. When I'm not writing clean code, solving complex logic puzzles, or exploring functional programming, you can usually find me doing what I love most:
-
-🔧 Bringing old technology back to life: I fix, upgrade, and care for PCs and laptops — because every piece of hardware deserves a second chance (and a little love!).
-
-🧠 Never stopping learning: From mastering foreign languages on Duolingo to solving algorithms on Codewars, I’m always growing.
-
-☕ Enjoying the little things: Good coffee, Italian views, and elegant code solutions.
+💡 KEY VALUE BRINGS TO A TEAM:
+1. FinTech & Analytical Domain Expertise: Well-equipped to design and optimize high-precision systems (banking software, ERPs, trading/analytical platforms).
+2. End-to-End Mindset: Hands-on experience spanning from algorithm design to server infrastructure setup and system troubleshooting.
+3. International & Adaptable: Effective collaborator in cross-functional, multicultural environments (English — C1, Italian — B2, Russian — Native).
+🎯 CURRENTLY SEEKING:
+Opportunities as a Software Engineer / Backend Developer / Full-Stack Developer / FinTech Developer (Full-time, Part-time, Internship | Remote or On-site in Italy/EU).
+📩 Open to new connections and professional opportunities — feel free to reach out on LinkedIn or via email.
 
 Whether you’re here to collaborate, check out my tech stack, or just say ciao, I’m always happy to connect! Thanks for dropping by ✨
 
@@ -103,6 +102,7 @@ Whether you’re here to collaborate, check out my tech stack, or just say ciao,
   + Attestato di completamento della Lingua Italiana, livello B2 (2026)
 * Coddy.Tech
   + Certificate of Completion in AI Prompts Fundamentals (2026)
+  + Certificate of Completion in C Fundamentals (2026)
   + Certificate of Completion in Excel Fundamentals (2026)
   + Certificate of Completion in Practice Basic Concepts (2026)
   + Certificate of Completion in Selection Sort (Data Structures and Algorithms, DSA) (2026)
