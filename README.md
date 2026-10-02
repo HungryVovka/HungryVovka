@@ -101,11 +101,18 @@ Whether you’re here to collaborate, check out my tech stack, or just say ciao,
   + Attestato di completamento della Lingua Italiana, livello B1 (2025)
   + Attestato di completamento della Lingua Italiana, livello B2 (2026)
 * Coddy.Tech
+  + Certificate of Completion in assembly Fundamentals (2026)
   + Certificate of Completion in AI Prompts Fundamentals (2026)
   + Certificate of Completion in C Fundamentals (2026)
+  + Certificate of Completion in C Logic & Flow (2026)
+  + Certificate of Completion in Functions in C (2026)
   + Certificate of Completion in Excel Fundamentals (2026)
   + Certificate of Completion in Practice Basic Concepts (2026)
   + Certificate of Completion in Selection Sort (Data Structures and Algorithms, DSA) (2026)
+* Forma.Temp
+  + ATTESTATO FINALE Conseguito nell'ambito della tipologia formativa professionale: Environment, Health, and Safety (EHS) (2024)
+* Sololearn
+  + Course Certificate Project planing with AI (2026)
 
 ## 💬 Languages
 *   English - C1
