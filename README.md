@@ -114,6 +114,7 @@ Whether you’re here to collaborate, check out my tech stack, or just say ciao,
 * Sololearn
   + Course Certificate Data Literacy with AI (2026)
   + Course Certificate Project planing with AI (2026)
+  + Course Certificate Think Creatively with AI (2026)
 
 ## 💬 Languages
 *   English - C1
