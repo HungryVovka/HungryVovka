@@ -112,6 +112,7 @@ Whether you’re here to collaborate, check out my tech stack, or just say ciao,
 * Forma.Temp
   + ATTESTATO FINALE Conseguito nell'ambito della tipologia formativa professionale: Environment, Health, and Safety (EHS) (2024)
 * Sololearn
+  + Course Certificate Brainstorm with AI (2026)
   + Course Certificate Data Literacy with AI (2026)
   + Course Certificate Project planing with AI (2026)
   + Course Certificate Think Creatively with AI (2026)
